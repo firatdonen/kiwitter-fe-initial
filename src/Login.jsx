@@ -19,7 +19,7 @@ export default function Login() {
   function handleLogin(data) {
     console.log(data, "---");
   }
-
+//bu bir denenmedir.
   return (
     <AuthLayout>
       <h1 className="text-3xl text-center font-semibold tracking-tighter text-lime-700">
